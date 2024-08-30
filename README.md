@@ -2,15 +2,15 @@
 
 This is the course webpage for FISF130020 Introduction to Computer Science for undergraduate students at Fudan University in Autumn 2024.
 
-**Classroom**: H6304
-**Time**: Thursday 6:30pm-9:10pm
-**Tutor** Xingjian Zhao, Yiran Yang
+**Classroom**: H6304  
+**Time**: Thursday 6:30pm-9:10pm  
+**Tutor** Xingjian Zhao, Yiran Yang  
 
 ### Lecture Notes
 
 | Date | Week | Topic | Materials |
 |:---------:|:---------:|:---------:|:------------------:|
-| Sep 5  |  1 | Numbers  |   |
+| Sep 5  |  1 | Numbers and Computation | [Slides](slides/L1-Numbers_and_Computation.pdf)  |
 | Sep 12 |  2 |   |   |
 | Sep 19 |  3 |   |   |
 | Sep 26 |  4 |   |   |
