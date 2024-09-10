@@ -11,7 +11,7 @@ This is the course webpage for FISF130020 Introduction to Computer Science for u
 | Date | Week | Topic | Materials |
 |:---------:|:---------:|:---------:|:------------------:|
 | Sep 5  |  1 | Numbers and Computation | [Slides](slides/L1-Numbers_and_Computation.pdf)  |
-| Sep 12 |  2 |   |   |
+| Sep 12 |  2 | Computer Architecture | [Slides](slides/L2-Arch.pdf)  |
 | Sep 19 |  3 |   |   |
 | Sep 26 |  4 |   |   |
 | Oct 3  |  5 |   |   |
