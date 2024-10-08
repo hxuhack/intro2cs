@@ -14,9 +14,9 @@ This is the course webpage for FISF130020 Introduction to Computer Science for u
 | Sep 12 |  2 | Computer Architecture | [Slides](slides/L2-Arch.pdf)  |
 | Sep 19 |  3 | Programming Languages | [Slides](slides/L2-PL.pdf)  |
 | Sep 26 |  4 | Data Structure | [Slides](slides/L4-DataStuctures.pdf)  |
-| Oct 3  |  5 |   |   |
-| Oct 10 |  6 |   |   |
-| Oct 17 |  7 |   |   |
+| Oct 3  |  5 | National Day |  |
+| Oct 10 |  6 | Algorithm I  | [Slides](slides/L5-Algorithm-I.pdf) |
+| Oct 17 |  7 | Algorithm II  | |
 | Oct 24 |  8 |   |   |
 | Oct 31 |  9 |   |   |
 | Nov 7  | 10 |   |   |
