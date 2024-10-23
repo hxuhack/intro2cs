@@ -17,7 +17,7 @@ This is the course webpage for FISF130020 Introduction to Computer Science for u
 | Oct 3  |  5 | National Day |  |
 | Oct 10 |  6 | Algorithm I  | [Slides](slides/L5-Algorithm-I.pdf) |
 | Oct 17 |  7 | Algorithm II  | [Slides](slides/L6-Algorithm-II.pdf) |
-| Oct 24 |  8 |   |   |
+| Oct 24 |  8 | Network  | [Slides](slides/L7-Network.pdf) |
 | Oct 31 |  9 |   |   |
 | Nov 7  | 10 |   |   |
 | Nov 14 | 11 |   |   |
