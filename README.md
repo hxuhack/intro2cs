@@ -21,7 +21,7 @@ This is the course webpage for FISF130020 Introduction to Computer Science for u
 | Oct 31 |  9 | - | - |
 | Nov 7  | 10 | Cryptography | [Slides](slides/L9-Cryptography.pdf)  |
 | Nov 14 | 11 | PKI and Applications | [Slides](slides/L10-PKI.pdf)  |
-| Nov 21 | 12 |   |   |
+| Nov 21 | 12 | BitCoin and BlockChain |  [Slides](L11-BlockChain.pdf) |
 | Nov 28 | 13 |   |   |
 | Dec 5  | 14 |   |   |
 | Dec 12 | 15 |   |   |
