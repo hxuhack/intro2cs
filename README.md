@@ -1,30 +1,28 @@
 # intro2cs
 
-This is the course webpage for FISF130020 Introduction to Computer Science for undergraduate students at Fudan University in Autumn 2024.
+This is the course webpage for FISF130020 Introduction to Computer Science for undergraduate students at Fudan University in Autumn 2025.
 
-**Classroom**: H6304  
-**Time**: Thursday 6:30pm-9:10pm  
-**Tutor** Xingjian Zhao, Yiran Yang  
+**Classroom**: H6505  
+**Time**: Thursday 1:30pm-4:10pm  
+**Tutor** Yilin Chen  
 
 ### Lecture Notes
 
 | Date | Week | Topic | Materials |
 |:---------:|:---------:|:---------:|:------------------:|
-| Sep 5  |  1 | Numbers and Computation | [Slides](slides/L1-Numbers_and_Computation.pdf)  |
-| Sep 12 |  2 | Computer Architecture | [Slides](slides/L2-Arch.pdf)  |
-| Sep 19 |  3 | Programming Languages | [Slides](slides/L2-PL.pdf)  |
-| Sep 26 |  4 | Data Structure | [Slides](slides/L4-DataStuctures.pdf)  |
-| Oct 3  |  5 | National Day |  |
-| Oct 10 |  6 | Algorithm I  | [Slides](slides/L5-Algorithm-I.pdf) |
-| Oct 17 |  7 | Algorithm II  | [Slides](slides/L6-Algorithm-II.pdf) |
-| Oct 24 |  8 | Network  | [Slides](slides/L7-Network.pdf)  |
-| Oct 31 |  9 | - | - |
-| Nov 7  | 10 | Cryptography | [Slides](slides/L9-Cryptography.pdf)  |
-| Nov 14 | 11 | PKI and Applications | [Slides](slides/L10-PKI.pdf)  |
-| Nov 21 | 12 | BitCoin and BlockChain |  [Slides](L11-BlockChain.pdf) |
-| Nov 28 | 13 |   |   |
-| Dec 5  | 14 |   |   |
-| Dec 12 | 15 |   |   |
-| Dec 19 | 16 |   |   |
-| Dec 24 | 17 | Closed Book Exam  | |
-
+| Sep 12 |  1 | Numbers and Computation |  |
+| Sep 19 |  2 | Computer Architecture |  |
+| Sep 26 |  3 | Networks |   |
+| Oct 3  |  4 | National Day |  |
+| Oct 10 |  5 | Programming Languages |  |
+| Oct 17 |  6 | Algorithm: Numbers and Strings  |  |
+| Oct 24 |  7 | Algorithm: Graph Analysis  |   |
+| Oct 31 |  8 | Algorithm: Dynamic Programming |  |
+| Nov 7  |  9 | AI: Classic Machine Learning |   |
+| Nov 14 | 10 | AI: Classic Machine Learning |   |
+| Nov 21 | 11 | AI: Convolutional Neural Networks |   |
+| Nov 28 | 12 | AI: Recurrent Neural Networks |   |
+| Dec 5  | 13 | AI: Large Language Models |   |
+| Dec 12 | 14 | Project Proposal |   |
+| Dec 19 | 15 | Review |   |
+| Dec 26 | 16 | Project Presentation | |
