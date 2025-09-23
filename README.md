@@ -12,7 +12,7 @@ This is the course webpage for FISF130020 Introduction to Computer Science for u
 |:---------:|:---------:|:---------:|:------------------:|
 | Sep 12 |  1 | Numbers and Computation | [slides](slides/l1-numbers-slides.pdf),[notes](notes/l1-numbers-notes.pdf) |
 | Sep 19 |  2 | Computer Architecture | [slides](slides/l2-arch-slides.pdf), [notes](notes/l2-arch-notes.pdf) |
-| Sep 26 |  3 | Networks |   |
+| Sep 26 |  3 | Computer Networks | [slides](slides/l3-networks-slides.pdf), [notes](notes/l3-networks-notes.pdf) |
 | Oct 3  |  4 | National Day |  |
 | Oct 10 |  5 | Programming Languages |  |
 | Oct 17 |  6 | Algorithm: Numbers and Strings  |  |
