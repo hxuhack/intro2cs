@@ -14,7 +14,7 @@ This is the course webpage for FISF130020 Introduction to Computer Science for u
 | Sep 19 |  2 | Computer Architecture | [slides](slides/l2-arch-slides.pdf), [notes](notes/l2-arch-notes.pdf) |
 | Sep 26 |  3 | Computer Networks | [slides](slides/l3-networks-slides.pdf), [notes](notes/l3-networks-notes.pdf) |
 | Oct 3  |  4 | National Day |  |
-| Oct 10 |  5 | Programming Languages |  |
+| Oct 10 |  5 | Programming Languages | [slides](slides/l4-proglang-slides.pdf), [notes](notes/l4-proglang-notes.pdf) |
 | Oct 17 |  6 | Algorithm: Numbers and Strings  |  |
 | Oct 24 |  7 | Algorithm: Graph Analysis  |   |
 | Oct 31 |  8 | Algorithm: Dynamic Programming |  |
