@@ -17,7 +17,7 @@ This is the course webpage for FISF130020 Introduction to Computer Science for u
 | Oct 10 |  5 | Programming Languages | [slides](slides/l4-proglang-slides.pdf), [notes](notes/l4-proglang-notes.pdf) |
 | Oct 17 |  6 | Data Structure | [slides](slides/l5-datastructures-slides.pdf), [notes](notes/l5-datastructures-notes.pdf) |
 | Oct 24 |  7 | Algorithm I: Numbers and Strings | [slides](slides/l6-algo1-slides.pdf), [notes](notes/l6-algo1-notes.pdf) |
-| Oct 31 |  8 | Algorithm II: Graphs |  |
+| Oct 31 |  8 | Algorithm II: Graphs | [slides](slides/l7-algo2-slides.pdf), [notes](notes/l7-algo2-notes.pdf) |
 | Nov 7  |  9 | Algorithm III: Dynamic Programming |   |
 | Nov 14 | 10 | AI: Classic Machine Learning |   |
 | Nov 21 | 11 | AI: Convolutional Neural Networks |   |
