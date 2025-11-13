@@ -1,6 +1,6 @@
-# intro2cs
+# Intro2cs
 
-This is the course webpage for FISF130020 Introduction to Computer Science for undergraduate students at Fudan University in Autumn 2025.
+This is the course webpage for MF20006: Introduction to Computer Science for undergraduate students at Fudan University in Autumn 2025.
 
 **Classroom**: H6505  
 **Time**: Thursday 1:30pm-4:10pm  
