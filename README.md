@@ -20,7 +20,7 @@ This is the course webpage for MF20006: Introduction to Computer Science for und
 | Oct 31 |  8 | Algorithm II: Graphs | [slides](slides/l7-algo2-slides.pdf), [notes](notes/l7-algo2-notes.pdf) |
 | Nov 7  |  9 | Algorithm III: Dynamic Programming | [slides](slides/l8-algo3-slides.pdf), [notes](notes/l8-algo3-notes.pdf) |
 | Nov 14 | 10 | AI: Classic Machine Learning | [slides](slides/L9-ai1-slides.pdf), [notes](notes/l9-ai1-notes.pdf) |
-| Nov 21 | 11 | AI: Convolutional Neural Networks |   |
+| Nov 21 | 11 | AI: Convolutional Neural Networks | [slides](slides/l10-ai2-slides.pdf) |
 | Nov 28 | 12 | AI: Recurrent Neural Networks |   |
 | Dec 5  | 13 | AI: Large Language Models |   |
 | Dec 12 | 14 | Project Proposal |   |
